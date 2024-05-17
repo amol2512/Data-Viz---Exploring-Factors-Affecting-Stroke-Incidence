@@ -7,6 +7,7 @@ The exploring factors affecting stroke incidence project is a comprehensive expl
 
 ### Source
 This dataset is available on Kaggle.
+Link: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 ### Context
 Stroke is a leading cause of morbidity and mortality worldwide. As per the World Health Organization (WHO), it ranks as the second most common cause of death globally, accounting for nearly 11% of all fatalities. The objective of this dataset is to facilitate predictive analytics, determining the likelihood of a stroke based on a series of patient attributes.
